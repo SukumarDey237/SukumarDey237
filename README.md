@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am Sukumar Dey
 
+- 👨‍💻 i am a self-taught frontend developer. 
+
+
+- 🎯 visit my [portfolio website](https://sukumar-dey.netlify.app) to know more about me.
+
+
+- 📫 connect with me on [LinkedIn](https://www.linkedin.com/in/sukumar-dey) and dey.sukumar1999@gmail.com.
+
+Thank for stopping by 😺.
 <!--
 **SukumarDey237/SukumarDey237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
